@@ -8,7 +8,7 @@
 
 
  ## 🛠 My toolkit: <br />
-* ReactJS, 
+* ReactJS 
 * Vanilla JavaScript 
 * Firebase
 * Jest 
