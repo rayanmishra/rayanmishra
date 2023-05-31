@@ -1,11 +1,11 @@
-### Hi,I'm Rayan 👋👨‍💻
+# Hi,I'm Rayan 👋👨‍💻 #
 
  I am a dedicated Web developer with a passion for crafting clean and accessible web applications. 
 ------
 Thanks for visiting my profile!<br />
 <br />
- *🛠 My toolkit: ReactJS, Vanilla JavaScript, Firebase, Jest, Vitest, HTML5, CSS, Sass, Tailwind CSS.<br />
- *📕 Currently learning: NodeJS, MongoDB<br />
+ * 🛠 My toolkit: ReactJS, Vanilla JavaScript, Firebase, Jest, Vitest, HTML5, CSS, Sass, Tailwind CSS.<br />
+ * 📕 Currently learning: NodeJS, MongoDB<br />
 
 
 <!--
