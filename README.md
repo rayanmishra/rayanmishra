@@ -1,9 +1,9 @@
-# Hi,👋 I'm Rayan [Rayan](https://www.linkedin.com/in/rayanmishra7/) 👨‍💻 #
+# Hi,👋 I'm [Rayan](https://www.linkedin.com/in/rayanmishra7/) 👨‍💻 #
 
  I am a dedicated Web developer with a passion for crafting clean and accessible web applications. 
 ------
-Thanks for visiting my profile!<br />
-<br />
+<!-- Thanks for visiting my profile! <br /> -->
+
 
 
  ## 🛠 My toolkit: <br />
