@@ -18,7 +18,7 @@
 * Sass 
 * Tailwind CSS<br />
 
- *always learning and growing my expertise*
+ *always learning and growing my expertise* 🚀🚀🚀
 
 
 ### Lets collaborate together ! ###
