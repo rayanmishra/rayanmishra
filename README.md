@@ -16,7 +16,9 @@
 * HTML5 
 * CSS 
 * Sass 
-* Tailwind CSS
+* Tailwind CSS<br />
+
+ *always learning and growing my expertise*
 
 
 
