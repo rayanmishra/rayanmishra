@@ -1,10 +1,12 @@
 ### Hi,I'm Rayan 👋👨‍💻
 
-Thanks for visiting my profile! I am a dedicated Web developer with a passion for crafting clean and accessible web applications. Some technologies I enjoy working with include ReactJS, Vanilla JavaScript
+Thanks for visiting my profile! I am a dedicated Web developer with a passion for crafting clean and accessible web applications. 
+------
+
 🛠 My toolkit: ReactJS, Vanilla JavaScript, Firebase, Jest, Vitest, HTML5, CSS, Sass, Tailwind CSS.
 📕 Currently learning: NodeJS, MongoDB
 
-![Rayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayanmishra&show_icons=true&theme=transparent)
+
 <!--
 **rayanmishra/rayanmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
