@@ -21,7 +21,7 @@
  *always learning and growing my expertise*
 
 
-### Looking to help. Lets collaborate together ! ###
+### Lets collaborate together ! ###
 
 <!--
 **rayanmishra/rayanmishra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
