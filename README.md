@@ -6,8 +6,16 @@ Thanks for visiting my profile!<br />
 <br />
 
 
- ## 🛠 My toolkit: ##<br />
- **ReactJS, Vanilla JavaScript, Firebase, Jest, Vitest, HTML5, CSS, Sass, Tailwind CSS.**<br />
+ ## 🛠 My toolkit: <br />
+* ReactJS, 
+* Vanilla JavaScript 
+* Firebase
+* Jest 
+* Vitest 
+* HTML5 
+* CSS 
+* Sass 
+* Tailwind CSS
 
 
 
