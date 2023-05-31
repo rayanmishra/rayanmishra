@@ -4,8 +4,9 @@
 ------
 Thanks for visiting my profile!<br />
 <br />
- * **🛠 My toolkit: ReactJS, Vanilla JavaScript, Firebase, Jest, Vitest, HTML5, CSS, Sass, Tailwind CSS.**<br />
- * **📕 Currently learning: NodeJS, MongoDB**<br />
+ * **🛠 My toolkit:**<br />
+ * **ReactJS, Vanilla JavaScript, Firebase, Jest, Vitest, HTML5, CSS, Sass, Tailwind CSS.**<br />
+
 
 
 <!--
@@ -21,4 +22,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ * **🛠 My toolkit: ReactJS, Vanilla JavaScript, Firebase, Jest, Vitest, HTML5, CSS, Sass, Tailwind CSS.**<br />
+ * **📕 Currently learning: NodeJS, MongoDB**<br />
 -->
