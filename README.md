@@ -20,7 +20,7 @@
 
  *always learning and growing my expertise*
 
-------
+
 ### Looking to help. Lets collaborate together ! ###
 
 <!--
