@@ -9,7 +9,10 @@
 
  ## 🛠 My toolkit: <br />
 * React.JS 
-* Vanilla JavaScript 
+* Vanilla JavaScript
+* Node.js
+* MongoDB
+* Redux 
 * Firebase
 * Jest 
 * Vitest 
