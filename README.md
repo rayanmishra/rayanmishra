@@ -1,6 +1,6 @@
 # Hi,👋 I'm [Rayan](https://www.linkedin.com/in/rayanmishra7/) 👨‍💻 #
 
- I have a a strong commitment to problem-solving, as well as crafting clean and accessible web applications. 
+ I have a strong commitment to problem-solving, as well as crafting clean and accessible web applications. 
  <br />
 ------
 <!-- Thanks for visiting my profile! <br /> -->
